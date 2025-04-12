@@ -3,7 +3,7 @@
 I'm **Ngiad** — Welcome to my GitHub profile!
 
 <!-- Profile summary -->
-- 🔭 I’m currently working on exciting full-stack projects and AI tools.
+- 🔭 I’m currently working on exciting full-stack projects.
 - 🌱 I’m currently learning advanced Node.js, microservices, and real-time applications.
 - 👯 I’m looking to collaborate on open-source AI and automation tools.
 - 💬 Ask me about JavaScript, Node.js, and building scalable applications.
