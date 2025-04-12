@@ -5,7 +5,7 @@ I'm **Ngiad** — Welcome to my GitHub profile!
 <!-- Profile summary -->
 - 🔭 I’m currently working on exciting full-stack projects.
 - 🌱 I’m currently learning advanced Node.js, microservices, and real-time applications.
-- 👯 I’m looking to collaborate on open-source AI and automation tools.
+- 👯 I'm seeking collaboration opportunities to develop projects, aiming to build useful tools for the community.
 - 💬 Ask me about JavaScript, Node.js, and building scalable applications.
 - 📫 How to reach me: [Check my GitHub](https://github.com/ngiad)
 
