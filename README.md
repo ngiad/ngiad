@@ -13,12 +13,14 @@ I'm **Ngiad** — Welcome to my GitHub profile!
 
 ## 💼 My Experience
 
-- 🚀 **Started my career in 2022**, gaining hands-on experience across various projects.
-- 🧩 Worked on **internal CRM systems**, and **third-party CRM solutions**.
-- 🛒 Developed projects in **e-commerce**, from back-end to customer-facing interfaces.
-- 🎨 Built engaging **landing pages** to boost marketing campaigns.
-- 📚 Created **educational applications** to support learning and development.
-- 🧑‍💻 Typically take on the role of **Full-Stack Developer**, handling both frontend and backend tasks.
+- 🚀 **Started my career in 2022**, gaining hands-on experience across diverse projects.
+- 🧩 Built **internal CRM systems** and **third-party CRM solutions**.
+- 🛒 Developed projects in **e-commerce**, handling both backend systems and user interfaces.
+- 🎨 Created high-converting **landing pages** for marketing campaigns.
+- 📚 Designed and built **educational applications** to support learning and development.
+- ☁️ Developed **SaaS platforms**, focusing on scalability and user experience.
+- 🔗 Explored and contributed to **Blockchain projects**, enhancing decentralized solutions.
+- 🧑‍💻 Typically take on the role of **Full-Stack Developer**, responsible for both frontend and backend development.
 
 ---
 
