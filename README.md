@@ -20,6 +20,7 @@ I'm **Ngiad** — Welcome to my GitHub profile!
 - 📚 Designed and built **educational applications** to support learning and development.
 - ☁️ Developed **SaaS platforms**, focusing on scalability and user experience.
 - 🔗 Explored and contributed to **Blockchain projects**, enhancing decentralized solutions.
+- 🤖 **Cloned ChatGPT since 2023**, creating an AI environment optimized for users in Vietnam to enhance local experiences.
 - 🧑‍💻 Typically take on the role of **Full-Stack Developer**, responsible for both frontend and backend development.
 
 ---
