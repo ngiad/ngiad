@@ -11,6 +11,17 @@ I'm **Ngiad** — Welcome to my GitHub profile!
 
 ---
 
+## 💼 My Experience
+
+- 🚀 **Started my career in 2022**, gaining hands-on experience across various projects.
+- 🧩 Worked on **internal CRM systems**, and **third-party CRM solutions**.
+- 🛒 Developed projects in **e-commerce**, from back-end to customer-facing interfaces.
+- 🎨 Built engaging **landing pages** to boost marketing campaigns.
+- 📚 Created **educational applications** to support learning and development.
+- 🧑‍💻 Typically take on the role of **Full-Stack Developer**, handling both frontend and backend tasks.
+
+---
+
 ### 🚀 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngiad&layout=compact&theme=dark)](https://github.com/ngiad/ngiad)
 
@@ -21,4 +32,3 @@ I'm **Ngiad** — Welcome to my GitHub profile!
 
 <!-- Visitor badge (optional) -->
 ![Visitor Badge](https://komarev.com/ghpvc/?username=ngiad&style=flat-square&color=blue)
-
