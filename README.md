@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Ngiad** — Welcome to my GitHub profile!
+I'm **TRAN DAI NGHIA** — Welcome to my GitHub profile!
 
 <!-- Profile summary -->
 - 🔭 I’m currently working on exciting full-stack projects.
